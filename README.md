@@ -179,7 +179,7 @@ I'm **Raman Pathak**, a passionate **Backend Developer** specializing in **Node.
 - ✅ Optimized **database queries** for performance
 
 ### Java & DSA Mastery
-- ✅ Solved **50+ algorithmic problems**
+- ✅ Solved **200+ algorithmic problems**
 - ✅ Mastered **core data structures**
 - ✅ Implemented **optimized algorithms**
 - ✅ Focused on **time-space complexity analysis**
