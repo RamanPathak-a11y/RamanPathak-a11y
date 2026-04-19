@@ -152,7 +152,7 @@ I'm **Raman Pathak**, a passionate **Backend Developer** specializing in **Node.
 ✅ Implemented secure authentication systems with JWT  
 ✅ Integrated third-party APIs (Gemini AI, Razorpay)  
 ✅ Designed efficient MongoDB schemas for complex applications  
-✅ Solved 50+ DSA problems in Java with optimized solutions  
+✅ Solved 200+ DSA problems in Java with optimized solutions  
 ✅ Created RESTful APIs following best practices  
 ✅ Built financial transaction processing systems  
 
