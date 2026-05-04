@@ -158,16 +158,6 @@ I'm **Raman Pathak**, a passionate **Backend Developer** specializing in **Node.
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Raman's GitHub stats](https://github-readme-stats.vercel.app/api?username=RamanPathak-a11y&show_icons=true&theme=radical&count_private=false)
-
-</div>
-
----
-
 ## 🎓 My Development Journey
 
 ### Backend Development Focus
