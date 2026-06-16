@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6C63FF&center=true&vCenter=true&width=940&height=80&lines=Welcome+to+My+GitHub+Profile!;Backend+Developer+|+MERN+Specialist;DSA+Enthusiast+|+Java+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6C63FF&center=true&vCenter=true&width=940&height=80&lines=Welcome+to+My+GitHub+Profile!;Backend+Developer;Node.js+%7C+Express+%7C+MongoDB;Building+Scalable+Systems!" alt="Welcome Banner">
 </div>
 
 ---
 
 ## 👋 About Me
 
-I'm **Raman Pathak**, a passionate **Backend Developer** specializing in **Node.js, Express, and MongoDB**. I build robust, scalable backend systems and RESTful APIs with a focus on security, performance, and clean architecture. I'm also deeply invested in **Data Structures & Algorithms** and **Java development** for competitive programming and algorithmic problem-solving.
+I'm **Raman Pathak**, a passionate **Backend Developer** specializing in **Node.js, Express, and MongoDB**. I build robust, scalable backend systems and RESTful APIs with a focus on security, performance, and clean architecture.
 
 💡 **Mission**: Design and develop efficient backend systems that power impactful applications while mastering DSA and core programming concepts.
 
@@ -17,6 +17,7 @@ I'm **Raman Pathak**, a passionate **Backend Developer** specializing in **Node.
 <div align="center">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -59,7 +60,7 @@ I'm **Raman Pathak**, a passionate **Backend Developer** specializing in **Node.
    - **What I Built**: Robust backend API for banking operations, secure user management, and transaction processing
 
 #### 3. 🔗 **[URL Shortener](https://github.com/RamanPathak-a11y/URL-Shortener)**
-   - **Tech Stack**: Node.js, Express, MongoDB,React.js(Built using documentation)
+   - **Tech Stack**: Node.js, Express, MongoDB, React.js (Built using documentation)
    - **Backend Features**:
      - 🔗 URL encoding & shortening algorithm
      - 📊 Click tracking & analytics
@@ -69,11 +70,40 @@ I'm **Raman Pathak**, a passionate **Backend Developer** specializing in **Node.
      - 🔄 RESTful API endpoints
    - **What I Built**: Efficient backend service for URL management with analytics and performance optimization
 
+#### 4. 🚄 **[Microservices Railway Booking System](https://github.com/RamanPathak-a11y/Microservices-Railway-Booking-System)**
+   - **Tech Stack**: JavaScript, Microservices Architecture, Event-Driven Design
+   - **Microservices Components**:
+     - 🚆 Railway & Station Management Service
+     - 🎫 Booking & Reservation Service
+     - 💳 Payment Processing Service
+     - 📨 Notification & Email Service
+     - 👤 User & Authentication Service
+     - 📊 Analytics & Reporting Service
+   - **Architecture Features**:
+     - 🔗 Service-to-Service communication
+     - 📨 Event-driven messaging (Message queues)
+     - 🔐 API Gateway for routing
+     - 📈 Scalable and maintainable design
+     - ⚡ Load balancing & fault tolerance
+   - **What I Built**: Complete microservices ecosystem demonstrating distributed system design, inter-service communication, and event-driven architecture
+
+#### 5. 💬 **[Event-Driven Real-Time Chat Platform](https://github.com/RamanPathak-a11y/Event-Driven-Real-Time-Chat-Platform-)**
+   - **Tech Stack**: TypeScript, Event-Driven Architecture, Real-time Communication
+   - **Key Features**:
+     - 💬 Real-time messaging system
+     - 👥 User presence & status management
+     - 📨 Event-driven message broadcasting
+     - 🔐 Secure message encryption & storage
+     - 🌐 WebSocket integration for live updates
+     - 💾 Message history & persistence
+     - 🎯 Room/Group chat support
+   - **What I Built**: A sophisticated real-time communication platform using TypeScript and event-driven patterns, demonstrating advanced backend architecture for concurrent user interactions
+
 ---
 
 ### 📚 **Data Structures & Algorithms**
 
-#### 4. 🎓 **[Mission-DSA](https://github.com/RamanPathak-a11y/Mission-DSA)**
+#### 6. 🎓 **[Mission-DSA](https://github.com/RamanPathak-a11y/Mission-DSA)**
    - **Language**: Java
    - **Core Topics Mastered**:
      - 📊 Arrays & Linked Lists
@@ -90,7 +120,7 @@ I'm **Raman Pathak**, a passionate **Backend Developer** specializing in **Node.
      - Waiter Problem (Stack-based approach)
    - **Focus**: Efficient algorithms, time-space complexity optimization, competitive programming
 
-#### 5. ☕ **[Java Projects](https://github.com/RamanPathak-a11y/java)**
+#### 7. ☕ **[Java Projects](https://github.com/RamanPathak-a11y/java)**
    - **Backend Applications**:
      - 🎬 Movie Ticket Booking System (Console-based backend with logic)
        - User & Admin authentication system
@@ -116,7 +146,11 @@ I'm **Raman Pathak**, a passionate **Backend Developer** specializing in **Node.
 </tr>
 <tr>
 <td><b>Backend Development</b></td>
-<td>Node.js, Express.js, RESTful APIs, Server-side logic, Middleware development, Error handling</td>
+<td>Node.js, Express.js, TypeScript, RESTful APIs, Server-side logic, Middleware development, Error handling</td>
+</tr>
+<tr>
+<td><b>Architecture & Design</b></td>
+<td>Microservices, Event-Driven Architecture, System Design, Design Patterns, Scalability, Load Balancing</td>
 </tr>
 <tr>
 <td><b>Database</b></td>
@@ -129,6 +163,10 @@ I'm **Raman Pathak**, a passionate **Backend Developer** specializing in **Node.
 <tr>
 <td><b>API Development</b></td>
 <td>RESTful API design, API endpoints, Request/Response handling, Status codes, Data serialization</td>
+</tr>
+<tr>
+<td><b>Real-Time Communication</b></td>
+<td>WebSocket integration, Event broadcasting, Real-time messaging, Live updates</td>
 </tr>
 <tr>
 <td><b>Java & DSA</b></td>
@@ -150,6 +188,8 @@ I'm **Raman Pathak**, a passionate **Backend Developer** specializing in **Node.
 
 ✅ Developed multiple production-ready Node.js backends  
 ✅ Implemented secure authentication systems with JWT  
+✅ Designed & built microservices architecture  
+✅ Created event-driven real-time communication systems  
 ✅ Integrated third-party APIs (Gemini AI, Razorpay)  
 ✅ Designed efficient MongoDB schemas for complex applications  
 ✅ Solved 200+ DSA problems in Java with optimized solutions  
@@ -162,8 +202,11 @@ I'm **Raman Pathak**, a passionate **Backend Developer** specializing in **Node.
 
 ### Backend Development Focus
 - ✅ Mastered **Node.js & Express** fundamentals
+- ✅ Advanced to **TypeScript** for type-safe applications
 - ✅ Designed **MongoDB schemas** for complex applications
 - ✅ Implemented **secure authentication systems**
+- ✅ Built **microservices architecture** for scalability
+- ✅ Created **event-driven systems** for real-time features
 - ✅ Integrated **third-party payment gateways**
 - ✅ Built **RESTful APIs** following industry standards
 - ✅ Optimized **database queries** for performance
@@ -179,11 +222,13 @@ I'm **Raman Pathak**, a passionate **Backend Developer** specializing in **Node.
 
 ## 💡 What I'm Currently Focused On
 
-- 🔧 Building more sophisticated backend systems
+- 🔧 Building sophisticated microservices-based systems
 - 📊 Database optimization & query performance
+- 🌐 Real-time communication & event-driven architecture
 - 🔐 Advanced authentication & authorization patterns
 - 🧠 Mastering complex algorithmic problems
-- 📈 Learning system design & scalability
+- 📈 Learning advanced system design & scalability patterns
+- 🚀 Exploring containerization & deployment strategies
 
 ---
 
@@ -201,6 +246,7 @@ I'm **Raman Pathak**, a passionate **Backend Developer** specializing in **Node.
 
 ## 📝 Latest Activity
 
+- 🌟 **June 2026**: Released Event-Driven Real-Time Chat Platform & Microservices Railway Booking System
 - 🌟 **April 2026**: Released URL Shortener
 - 🎯 **April 2026**: Published AI Resume Builder & Bank Ledger Backend
 - 📚 **May 2025**: Started Mission-DSA collection
@@ -209,19 +255,23 @@ I'm **Raman Pathak**, a passionate **Backend Developer** specializing in **Node.
 
 ## 💻 Quick Project Links
 
-| Project | Repository | Focus |
-|---------|-----------|-------|
-| AI Resume Builder | [View](https://github.com/RamanPathak-a11y/AI-Resume-Builder) | Backend + AI Integration |
-| Bank Ledger Backend | [View](https://github.com/RamanPathak-a11y/Backend-Internal-Transaction-Ledger) | Secure Banking API |
-| URL Shortener | [View](https://github.com/RamanPathak-a11y/URL-Shortener) | Backend System |
-| Mission-DSA | [View](https://github.com/RamanPathak-a11y/Mission-DSA) | Java Algorithms |
-| Java Projects | [View](https://github.com/RamanPathak-a11y/java) | Java & OOP |
+| Project | Repository | Tech Stack | Focus |
+|---------|-----------|-----------|-------|
+| AI Resume Builder | [View](https://github.com/RamanPathak-a11y/AI-Resume-Builder) | Node.js, React, AI | Backend + AI Integration |
+| Bank Ledger Backend | [View](https://github.com/RamanPathak-a11y/Backend-Internal-Transaction-Ledger) | Node.js, MongoDB | Secure Banking API |
+| URL Shortener | [View](https://github.com/RamanPathak-a11y/URL-Shortener) | Node.js, React | Backend System |
+| Microservices Railway Booking | [View](https://github.com/RamanPathak-a11y/Microservices-Railway-Booking-System) | JavaScript | Microservices Architecture |
+| Real-Time Chat Platform | [View](https://github.com/RamanPathak-a11y/Event-Driven-Real-Time-Chat-Platform-) | TypeScript | Event-Driven Real-Time |
+| Mission-DSA | [View](https://github.com/RamanPathak-a11y/Mission-DSA) | Java | Algorithms & DSA |
+| Java Projects | [View](https://github.com/RamanPathak-a11y/java) | Java | Java & OOP |
 
 ---
 
 ## 🌟 Philosophy
 
 - 💻 **Backend First**: Strong backend foundations are crucial for scalable applications
+- 🏗️ **Microservices & Scalability**: Designing systems that grow with demand
+- ⚡ **Event-Driven Design**: Real-time, responsive systems powered by events
 - 🎯 **Algorithm Mastery**: DSA knowledge improves problem-solving and code efficiency
 - 🔐 **Security Matters**: Authentication & data protection are non-negotiable
 - 📚 **Continuous Learning**: Always exploring new tools and best practices
@@ -235,7 +285,7 @@ I'm **Raman Pathak**, a passionate **Backend Developer** specializing in **Node.
 
 **Feel free to explore my repositories!** ⭐
 
-If you'd like to discuss backend architecture, DSA, or Java development, feel free to reach out.
+If you'd like to discuss backend architecture, microservices, DSA, or Java development, feel free to reach out.
 
 **Happy Coding!** 🚀
 
